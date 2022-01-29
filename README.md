@@ -1,6 +1,6 @@
 Hi, I'm Ana Carolina Resende, 18 y/o and living in Barra Mansa, Rio de Janeiro - Brazil.
 I'm studying a Bachelor's degree in Information Systems and I'm interested in development area.
-I'm currently learning web development (JavaScript, HTML5 and CSS3) and I have some notions of Python.
+Currently learning web development (JavaScript, HTML5 and CSS3) and I have some notions of Python.
 
 📫 How to reach me:
 - Email
