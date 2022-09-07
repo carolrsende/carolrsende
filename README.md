@@ -7,4 +7,4 @@ Currently learning web development (JavaScript, HTML5 and CSS3) and I have some 
 - Email
 carolrsende@gmail.com
 - LinkedIn
-https://www.linkedin.com/in/ana-carolina-resende-rodrigues-296138196/
+https://www.linkedin.com/in/carolrsende/
